@@ -125,7 +125,7 @@ xdg-open ./dist/index.html  # Linux
 cp -r mcm-defense-kit ~/.agents/skills/
 ```
 
-#一句话安装（把这句话发给你的agent）
+###一句话安装（把这句话发给你的agent）
 ```text
 帮我安装这个skill https://github.com/yuguilai/mcm-defense-kit
 ```
