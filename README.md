@@ -121,8 +121,13 @@ xdg-open ./dist/index.html  # Linux
 ### 安装
 
 ```bash
-# 复制到你的 agent skills 目录
-cp -r mcm-defense-kit ~/.codebuddy/skills/
+# 复制到你的 agent skills 目录（示例）
+cp -r mcm-defense-kit ~/.agents/skills/
+```
+
+#一句话安装（把这句话发给你的agent）
+```text
+帮我安装这个skill https://github.com/yuguilai/mcm-defense-kit
 ```
 
 或者把 `mcm-defense-kit/` 整个目录的内容放进你的 skills 目录。
